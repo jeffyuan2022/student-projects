@@ -1,0 +1,16 @@
+/* src/components/ProjectList.css */
+.project {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .project h2, .project h3 {
+    margin: 10px 0;
+  }
+  
+  iframe {
+    margin: 20px 0;
+    border: 1px solid #ccc;
+  }
+  

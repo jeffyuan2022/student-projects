@@ -24,3 +24,16 @@ iframe {
   margin: 20px 0;
   border: 1px solid #ccc;
 }
+
+@media (max-width: 768px) {
+  .project iframe {
+    width: 100%;
+    height: auto;
+  }
+}
+
+body {
+  padding-top: 80px; /* Adjust based on the height of your navbar */
+  margin: 0;
+  box-sizing: border-box;
+}
